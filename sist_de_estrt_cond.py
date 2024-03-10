@@ -1,6 +1,3 @@
-# Escreva um programa que leia três números e os exiba em ordem decrescente.
-
-
 
 n1 = float(input("Digite seu primeiro número: "))
 n2 = float(input("Digite seu segudno número: "))
