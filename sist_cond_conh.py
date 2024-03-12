@@ -2,7 +2,7 @@ num_1 = float(input("Escolha seu primeiro número:"))
 num_2 = float(input("Escolha seu segundo número:"))
 operacao = input("Qual operação deseja realizar (+, -, *, /)?")
 
-# Executando as operações matemáticas conforme a selecionado.
+# Executando as operações matemáticas conforme a selecionada.
 if operacao =="+":
     resultado = num_1 +num_2
 elif operacao == "-":
