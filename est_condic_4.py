@@ -1,5 +1,5 @@
 # coletando a quantidade de litros e o tipo de combústivel
-#Colocando tudo pra maiúscula para facilitar a análise.
+#Colocando tudo pra maiúscula para facilitar a análise dos dados coletados.
 quant_litros = float(input("Quanto litros foram vendidos ?"))
 tipo_combustivel = input("E (etanol) / D (Dísel) ").upper()
 
